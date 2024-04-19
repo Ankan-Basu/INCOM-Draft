@@ -1,0 +1,11 @@
+Ying Cui, Wenqi Zhong, Zongyan Zhou, Aibing Yu, Xuejiao Liu, Jun Xiang,
+Coupled simulation and deep-learning prediction of combustion and heat transfer processes in supercritical CO2 CFB boiler,
+Advanced Powder Technology,
+Volume 33, Issue 1,
+2022,
+103361,
+ISSN 0921-8831,
+https://doi.org/10.1016/j.apt.2021.11.013.
+(https://www.sciencedirect.com/science/article/pii/S0921883121005367)
+Abstract: The supercritical CO2 (S-CO2) power cycle has a wide application prospect in coal-fired power generation field because it’s highly effective, compactly structured, and flexible of operation. To observe more accurate heat transfer and coal combustion characteristics in the circulating fluidized bed (CFB) with the distinctive S-CO2 boundary, a 3D computational fluid dynamics (CFD) simulation of the furnace-side combustion process treated by the multiphase particle-in-cell (MP-PIC) method was conducted in a 600 MW S-CO2 CFB boiler coupled with the heat transfer process on working fluid side based on the polynomial fitting calculation model. Furthermore, a novel method to predict simulation results via Radial Base Function (RBF) neural network was proposed to simplify the computational process, enhance the sample data fusion, and improve the prediction accuracy. Results show that staggered high-temperature fluid and high heat flux was a major concern in S-CO2 heating surface arrangement. The temperature rise of wall heaters was less than the conventional steam CFB, and the heat flux of spiral and vertical heat transfer tubes decreased along the tube. The predicted temperature distribution of tubes and cold walls was in a good agreement with the coupling simulation results, whose accuracy can meet the engineering requirements.
+Keywords: Circulating fluidized bed; Coupled simulation; Supercritical CO2; Deep-learning prediction
